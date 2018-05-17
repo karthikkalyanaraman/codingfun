@@ -1,0 +1,79 @@
+2018-03-08T22:55:19.444Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=1.463(MBps) New=2.120(MBps)
+2018-03-08T22:57:58.579Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=9.359(MBps) New=12.853(MBps)
+2018-03-08T22:59:09.248Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=8.297(MBps) New=10.362(MBps)
+2018-03-08T23:00:16.312Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=35.647(MBps) New=30.538(MBps)
+2018-03-08T23:00:46.348Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=10.839(MBps) New=9.424(MBps)
+2018-03-08T23:00:55.993Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:00:55.993Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:00:55.993Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:00:55.993Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:00:55.993Z LVL:3 RC:   0        :Ignoring 7 slice response(s). Service layer is not active.
+2018-03-08T23:01:12.883Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=8.603(MBps) New=10.344(MBps)
+2018-03-08T23:01:28.542Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=9.250(MBps) New=11.076(MBps)
+2018-03-08T23:02:12.640Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=39.173(MBps) New=34.877(MBps)
+2018-03-08T23:02:26.484Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=24.512(MBps) New=28.559(MBps)
+2018-03-08T23:02:40.083Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=40.190(MBps) New=36.061(MBps)
+2018-03-08T23:02:50.941Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=42.164(MBps) New=37.757(MBps)
+2018-03-08T23:03:11.202Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=72.752(MBps) New=59.703(MBps)
+2018-03-08T23:03:26.277Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=39.198(MBps) New=44.561(MBps)
+2018-03-08T23:03:38.848Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=31.717(MBps) New=42.518(MBps)
+2018-03-08T23:03:49.921Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=29.450(MBps) New=36.176(MBps)
+2018-03-08T23:03:52.988Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:03:52.998Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:03:52.998Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:03:52.998Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:03:52.998Z LVL:3 RC:   0        :Ignoring 28 slice response(s). Service layer is not active.
+2018-03-08T23:04:31.988Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:04:31.988Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:04:31.988Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:04:43.495Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:04:43.495Z LVL:3 RC:   0        :Ignoring 3 slice response(s). Service layer is not active.
+2018-03-08T23:04:43.496Z LVL:3 RC:   0        :Ignoring 20 slice response(s). Service layer is not active.
+2018-03-08T23:04:46.829Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=49.366(MBps) New=40.324(MBps)
+2018-03-08T23:05:40.224Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=17.739(MBps) New=28.224(MBps)
+2018-03-08T23:06:26.651Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=11.097(MBps) New=15.204(MBps)
+2018-03-08T23:07:01.850Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=17.700(MBps) New=32.368(MBps)
+2018-03-08T23:07:31.491Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:07:31.491Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:07:36.742Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=5.785(MBps) New=7.218(MBps)
+2018-03-08T23:07:40.486Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:07:40.486Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:07:40.486Z LVL:3 RC:   0        :Ignoring 2 slice response(s). Service layer is not active.
+2018-03-08T23:07:40.486Z LVL:3 RC:   0        :Ignoring 12 slice response(s). Service layer is not active.
+2018-03-08T23:09:14.797Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=7.257(MBps) New=8.815(MBps)
+2018-03-08T23:10:00.983Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:10:00.983Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:10:00.983Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:10:00.983Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:10:00.983Z LVL:3 RC:   0        :Ignoring 11 slice response(s). Service layer is not active.
+2018-03-08T23:10:05.484Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:10:05.492Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:10:05.492Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:10:05.492Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:10:05.493Z LVL:3 RC:   0        :Ignoring 28 slice response(s). Service layer is not active.
+2018-03-08T23:10:48.553Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=22.686(MBps) New=20.032(MBps)
+2018-03-08T23:12:03.856Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=7.071(MBps) New=8.982(MBps)
+2018-03-08T23:13:31.854Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=20.797(MBps) New=30.662(MBps)
+2018-03-08T23:14:31.684Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=10.657(MBps) New=9.589(MBps)
+2018-03-08T23:15:20.916Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=11.966(MBps) New=16.244(MBps)
+2018-03-08T23:16:17.254Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=21.593(MBps) New=38.844(MBps)
+2018-03-08T23:16:56.495Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=14.858(MBps) New=21.412(MBps)
+2018-03-08T23:17:34.484Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:17:34.484Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:17:34.484Z LVL:3 RC:   0        :Ignoring 2 slice response(s). Service layer is not active.
+2018-03-08T23:17:34.484Z LVL:3 RC:   0        :Ignoring 4 slice response(s). Service layer is not active.
+2018-03-08T23:17:37.920Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=22.025(MBps) New=25.373(MBps)
+2018-03-08T23:17:47.487Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:17:47.487Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:17:47.487Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:17:47.487Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:17:47.487Z LVL:3 RC:   0        :Ignoring 16 slice response(s). Service layer is not active.
+2018-03-08T23:18:16.540Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=13.885(MBps) New=15.920(MBps)
+2018-03-08T23:19:08.327Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=65.142(MBps) New=57.693(MBps)
+2018-03-08T23:19:52.161Z LVL:2 RC:   0        :Snapshot of rate estimate update. Old=107.568(MBps) New=65.444(MBps)
+2018-03-08T23:20:38.286Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:20:38.286Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:20:38.291Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:20:38.291Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
+2018-03-08T23:20:38.291Z LVL:3 RC:   0        :Ignoring 9 slice response(s). Service layer is not active.
+2018-03-08T23:21:03.090Z LVL:3 RC:   0        :Ignoring 1 slice response(s). Service layer is not active.
