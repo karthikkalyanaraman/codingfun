@@ -19,4 +19,24 @@ Each sub folder has a `README.md` file with additional information about the tas
 * Create a pull request by clicking "New pull request" on https://github.com/[your-github-username]/codingfun, comparing changes with
     
     base fork: tonywgh/codingfun|base: master <- head fork: [your-github-username]/codingfun|compare: master
-    
+
+## Steps to test the project
+* Run pip install -r requirements.txt
+* To test Rock Paper Scissors,
+
+    python3 game/rpc.py
+
+* To run the tests for the game,
+
+    pytest game/tests.py
+
+* Game - Assumptions made:
+    1. We let the game run on a loop until user presses 'e'
+    2. We are not raising an exception and killing the game if an invalid input is given(only logging it)
+
+* To test the parser,
+
+    python3 parser/get_stats.py
+
+* Parser - Assumptions made:
+    1. We calculate min, mid, max and average values for Old and New separately and display it
