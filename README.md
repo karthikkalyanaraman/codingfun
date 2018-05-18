@@ -24,7 +24,7 @@ Each sub folder has a `README.md` file with additional information about the tas
 * Run pip install -r requirements.txt
 * To test Rock Paper Scissors,
 
-    python3 game/rpc.py
+    python3 game/rps.py
 
 * To run the tests for the game,
 
