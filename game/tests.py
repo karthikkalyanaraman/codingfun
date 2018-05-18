@@ -62,6 +62,14 @@ def test_validate_exit(basic_game):
     assert pytest_wrapped_e.type == SystemExit
 
 
+def test_decide_winner_game(basic_game):
+    """Tests if it throws an exception
+
+    """
+    with pytest.raises(NotImplementedError) as e_info:
+        basic_game.decide_winner('a', 'b')
+
+
 @pytest.fixture
 def rock_paper_scissors_game():
     """Returns a RockPaperScissors instance.
