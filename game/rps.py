@@ -8,5 +8,5 @@ of RockPaperScissors game and playing it
 from rock_paper_scissors import RockPaperScissors
 
 if __name__ == "__main__":
-    rps = RockPaperScissors()
-    rps.play_game()
+    rockpaperscissors = RockPaperScissors()
+    rockpaperscissors.play_game()
