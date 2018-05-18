@@ -1,6 +1,13 @@
 import mock
 
+"""Mocks a True for infinite loop
+
+"""
+
 class MockTrue(object):
+    """MockTrue class for mocking True
+
+    """
 
     def __init__(self, total_iterations=1):
         self.total_iterations = total_iterations
