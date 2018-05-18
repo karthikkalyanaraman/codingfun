@@ -77,6 +77,7 @@ class Game(ABC):
                 print("%s lost!!" % USER)
             else:
                 print(TIE)
+            return winner
 
     @abstractmethod
     def decide_winner(self, user_input, computer_input):
