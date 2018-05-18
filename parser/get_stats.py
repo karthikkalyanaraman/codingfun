@@ -126,9 +126,9 @@ class ParseFile(object):
         """Prints all the stats
 
         """
-        print("\nOld: (Time, Min): %s, (Time, Mid): %s, (Time, Max): %s, Average: %s\n"
+        print("\nOld:\n (Time, Min): %s, (Time, Mid): %s, (Time, Max): %s, Average: %s\n"
               % (self.get_min_old(), self.get_mid_old(), self.get_max_old(), self.get_avg_old()))
-        print("New: (Time, Min): %s, (Time, Mid): %s, (Time, Max): %s, Average: %s\n"
+        print("New:\n (Time, Min): %s, (Time, Mid): %s, (Time, Max): %s, Average: %s\n"
               % (self.get_min_new(), self.get_mid_new(), self.get_max_new(), self.get_avg_new()))
 
 if __name__ == "__main__":
